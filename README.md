@@ -1,11 +1,12 @@
 <div align="center">
   <h3>🌼 contact me 🌼</h3>
-  <a href="mailto:ahnhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:ahnhere@gmail.com"/></a>&nbsp;&nbsp;
-  <a href="https://ahnsso.tistory.com"><img src="https://img.shields.io/badge/Tech blog-F54997?style=flat-square&logo=Tistory&logoColor=white&link=https://ahnsso.tistory.com"/></a>
+  <a href="mailto:ahnhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&link=mailto:ahnhere@gmail.com"/></a>&nbsp;&nbsp;
+  <a href="https://ahnsso.tistory.com"><img src="https://img.shields.io/badge/Tech blog-FF66AA?style=plastic&logo=Tistory&logoColor=white&link=https://ahnsso.tistory.com"/></a>
   
   #
   
   <h3>🌱 tech stack 🌱</h3>
+  
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;&nbsp;
@@ -39,6 +40,6 @@
 
 <div align="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnsso%2Fhit-counter&count_bg=%23D95007&title_bg=%23EBAAC5&icon=&icon_color=%238A7D4B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnsso%2Fhit-counter&count_bg=%23D95007&title_bg=%23EBAAC5&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
