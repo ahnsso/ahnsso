@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Bootstrap&logoColor=white">
   </p>
-  <br> 
 
 <!--![ahnsso's github stats](https://github-readme-stats.vercel.app/api?username=ahnsso&show_icons=true&theme=vue)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnsso&theme=vue)-->
