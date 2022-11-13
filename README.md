@@ -1,7 +1,9 @@
 <div align="center">
   <h3>🌼 contact me 🌼</h3>
-  <a href="mailto:ahnhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&link=mailto:ahnhere@gmail.com"/></a>&nbsp;&nbsp;
+  <a href="mailto:ahnhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&link=mailto:ahnhere@gmail.com"/></a>
+  <!--
   <a href="https://ahnsso.tistory.com"><img src="https://img.shields.io/badge/Tech blog-FF66AA?style=plastic&logo=Tistory&logoColor=white&link=https://ahnsso.tistory.com"/></a>
+-->
   
   #
   
